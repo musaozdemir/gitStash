@@ -1,4 +1,4 @@
-package gitStash;
+package com.class01;
 
 public class TestGitStash {
 
